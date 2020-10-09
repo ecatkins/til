@@ -5,3 +5,4 @@
 
 ### Python General
 - [(Hacky) subsitute for deepcopy when it is incredibly slow](python_general/deepcopy-sub.md)
+- [Ignore warnings in Jupyter Notebook/Lab](python_general/ignore-warnings.md)
